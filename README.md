@@ -1,3 +1,11 @@
+#
+$ git clone https://github.com/riyan420/Old
+
+$ cd Old
+
+$ python Riyan-2.py
+
+
 # Old 
 - 👋 Hi, I’m @riyan420
 - 👀 I’m interested in ...
